@@ -1,0 +1,6 @@
+name: 'JumpServer repos auto delete PR branch'
+description: ''
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
